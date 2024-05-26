@@ -1,7 +1,7 @@
 class Livro {
 
     constructor() {
-        this.filePath = './src/files/livros.json';
+       
     }
 
 }
